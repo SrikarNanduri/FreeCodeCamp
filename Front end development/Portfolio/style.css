@@ -1,0 +1,102 @@
+body {
+  position: relative;
+}
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 500px;
+  padding-top: 250px;
+  color:#000;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  
+}
+
+h4 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 25px;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+  font-size: 16px;
+  
+}
+#home {
+  background: url(https://res.cloudinary.com/srikarnanduri/image/upload/c_scale,w_1325/v1507803433/levi-bare-290789_hukki4.jpg);
+     /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    color:#fff;
+}
+#about {
+  background: url(https://res.cloudinary.com/srikarnanduri/image/upload/c_scale,w_1272/v1508564714/andrew-neel-95126_yooih8.jpg);
+     /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  padding-top: 100px;
+  height:500px;
+  color:#fff;
+}
+#portfolio {
+  background: url(https://res.cloudinary.com/srikarnanduri/image/upload/c_scale,w_1256/v1508565298/jared-brashier-252015_mioi7d.jpg);
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  padding-top: 50px;
+  height: 400px;
+  color: #fff;
+}
+#contact {
+   background: url(https://res.cloudinary.com/srikarnanduri/image/upload/c_scale,w_2560/v1508564723/radovan-paska-381890_apqpts.jpg);
+     /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  padding-top: 50px;
+  height: 500px;
+  color: #fff;
+  background-color: #00bcd4;
+}
+.btn-google {
+    margin-top: 30px;
+    margin-right:10px;
+    width: 150px;
+    color: #fff;
+    background-color: #dd4b39;
+    border-color: rgba(0,0,0,0.2);  
+}
+
+.btn-linkedin {
+    margin-top: 30px;
+    margin-right:10px;
+    width: 150px;
+    color: #fff;
+    background-color: #007bb6;
+    border-color: rgba(0,0,0,0.2);
+}
+.btn-github {
+    margin-top: 30px;
+    margin-right:10px;
+    width: 150px;
+    color: #fff;
+    background-color: #e68a00;
+    border-color: rgba(0,0,0,0.2);  
+}
+
